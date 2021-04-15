@@ -1,0 +1,7 @@
+ivanov:qwerty:100:1:Сергей Иванов, менеджер:/home/ivanov:/bin/sh
+ilyina:gfhjkm:101:1:Мария Ильина, старший программист, HL3:/home/ilyina:/bin/sh
+kuznetsova:jxtym[bnhsqgfhjkm:102:1:Дарья Кузнецова, младший
+программист:/home/kuznetsova:/bin/sh
+polivanov:qwerty:103:1:Андрей Поливанов, младший программист, TF3:/home/polivanov:/bin/sh
+
+123456;qwerty;password
